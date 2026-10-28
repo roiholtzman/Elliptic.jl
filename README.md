@@ -92,3 +92,8 @@ Installation
 ```jlcon
 julia> Pkg.add("Elliptic")
 ```
+
+
+## Methodological validation
+
+Before treating numerical agreement or tests as independent scientific validation, read [`VALIDATION.md`](VALIDATION.md). It records the repository-specific validation layer, independence/uncertainty caveats, and the highest-value unresolved check.
